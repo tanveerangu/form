@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Build output
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+
+# Mac System Files
+.DS_Store
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+
+# IDE and editor configurations
+.idea/
+.vscode/
+.history/
+.project
+.classpath
+.npm/
